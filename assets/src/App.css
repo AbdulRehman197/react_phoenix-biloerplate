@@ -1,0 +1,4 @@
+.App {margin:200px 0;text-align:center;font-size:16px;}
+.App form input[type="email"] {font-size:16px;padding:7px 10px;border:1px solid #ccc;border-radius:6px;}
+.App p.success {color:green;}
+.App p.error {color:red;}
